@@ -1,0 +1,9 @@
+POST http://localhost:3333/incident
+Content-Type: application/json
+Authorization: 70529769
+
+{
+    "title": "Caso 1",
+    "description": "Lorem ipsum dolor sit amet",
+    "value": 120
+}

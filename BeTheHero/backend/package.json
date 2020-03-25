@@ -1,0 +1,21 @@
+{
+    "name": "be_the_hero",
+    "version": "1.0.0",
+    "description": "An application developed in a Node.js, React and React Native workshop. This application means to help the contact between Non-Governmental Organizations and possible donators.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "watch": "nodemon src/index.js"
+    },
+    "author": "Marco Araujo",
+    "license": "MIT",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "knex": "^0.20.13",
+        "sqlite3": "^4.1.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}

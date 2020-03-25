@@ -1,0 +1,2 @@
+DELETE  http://localhost:3333/incident/2
+Authorization: 70529769
