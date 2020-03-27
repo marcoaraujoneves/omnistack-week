@@ -1,6 +1,14 @@
 # AirCnC - OmniStack Week
 > This repository contains the code developed in a workshop of NodeJS, ReactJS and React Native.
 
+# Technologies
+
+- React.js 
+- React Native 
+- Expo 
+- Node.js + Express 
+- Mongo + Mongoose 
+- Socket.io 
 
 # Screen records
 ## Interface developed with React

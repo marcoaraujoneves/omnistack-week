@@ -1,6 +1,14 @@
 # Tindev-Omnistack
 > This repository contains the code developed in a workshop of NodeJS, ReactJS and React Native.
 
+# Technologies
+
+- React.js 
+- React Native 
+- Node.js + Express 
+- Mongo + Mongoose 
+- Socket.io 
+
 # Screenshots
 > ## Interface created using React Native <br />
 ![Mobile Initial Screen](https://github.com/MarcoAraujoNeves/omnistack-week/blob/master/Tinder-Clone/img/initial_screen_mobile.png)

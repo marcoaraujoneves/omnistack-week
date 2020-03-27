@@ -1,6 +1,14 @@
 # Instagram - OmniStack Week
 > This repository contains the code developed in a workshop of NodeJS, ReactJS and React Native.
 
+# Technologies
+
+- React.js 
+- React Native 
+- Node.js + Express 
+- Mongo + Mongoose 
+- Socket.io 
+- Sharp 
 
 # Screen records
 ## Interface developed with React
